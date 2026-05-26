@@ -90,4 +90,4 @@ Universidad de Monterrey (UDEM) · March 2026
 
 ##  Author
 
-**Humberto Vargas Sánchez** · [@Betito016](https://github.com/Betito016) *(update with your actual handle)*
+**Humberto Vargas Sánchez** · [@Betito016](https://github.com/Betito016)
